@@ -1,4 +1,4 @@
-# 🌿 Carbon_Footprint — Sustainable Language Model Recommendation System
+# Carbon_Footprint — Sustainable Language Model Recommendation System
 
 ##  Project Overview
 Developed a system to reduce the carbon footprint of language model usage by analyzing task complexity and recommending the optimal model in terms of performance, environmental impact, and cost.
